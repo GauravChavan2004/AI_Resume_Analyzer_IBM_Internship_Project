@@ -1,0 +1,616 @@
+[
+  {
+    "_id": "1783605773670",
+    "jobTitle": "Full Stack Developer",
+    "jobDescription": "We are seeking a Full Stack Developer with experience in JavaScript, Node.js, Express, MongoDB, React, Git, and Docker. Experience with SQL and AWS is a plus.",
+    "candidateName": "Gaurav Sharma",
+    "fileName": "mock_resume.txt",
+    "atsScore": 71,
+    "matchDetails": {
+      "matchedSkills": [
+        "javascript",
+        "sql",
+        "react",
+        "express",
+        "node.js",
+        "mongodb",
+        "git"
+      ],
+      "missingSkills": [
+        "aws"
+      ],
+      "matchedKeywords": [
+        "full",
+        "stack",
+        "developer"
+      ],
+      "missingKeywords": [
+        "seeking",
+        "docker.",
+        "plus."
+      ]
+    },
+    "suggestions": [
+      "Ensure your academic credentials are listed in an \"Education\" section.",
+      "Include a \"Projects\" section detailing hands-on work, linking to GitHub or live demos where possible.",
+      "Incorporate quantifiable metrics (e.g., \"improved loading speed by 35%\", \"managed a team of 4 developers\", \"boosted conversions by 15%\") to prove impact.",
+      "Consider adding context or projects showcasing missing technical skills like: aws.",
+      "Weave in relevant context-specific keywords from the job description: seeking, docker., plus.."
+    ],
+    "rawText": "Gaurav Sharma\nFull Stack Developer\nEmail: gaurav@example.com | Phone: +1-234-567-8900\nLinkedIn: linkedin.com/in/gaurav | GitHub: github.com/gaurav\n\nSUMMARY\nResults-oriented software developer with 4 years of experience building web applications.\n\nTECHNICAL SKILLS\n- Languages: JavaScript, HTML5, CSS3, SQL\n- Frameworks & Libraries: React, Node.js, Express.js, Bootstrap\n- Database: MongoDB, Mongoose\n- Tools & DevOps: Git, GitHub\n\nPROFESSIONAL EXPERIENCE\nSoftware Engineer | Tech Corp (2024 - Present)\n- Developed and optimized React components, improving page load speeds by 25%.\n- Implemented secure RESTful APIs with Node.js and Express, integrating MongoDB for data storage.\n- Collaborated with Agile team using Jira and Scrum methodologies.\n",
+    "createdAt": "2026-07-09T14:02:53.671Z"
+  },
+  {
+    "_id": "1783606195121",
+    "jobTitle": "Software Engineer",
+    "jobDescription": "We are looking for a passionate and skilled Software Engineer to join our growing team. You will be responsible for designing, developing, testing, and maintaining scalable software solutions while collaborating with cross-functional teams to build high-quality products.\r\n\r\nKey Responsibilities\r\n\r\nDesign, develop, test, and deploy scalable software applications.\r\nWrite clean, maintainable, and efficient code following industry best practices.\r\nCollaborate with product managers, designers, and other engineers to deliver high-quality solutions.\r\nDebug, troubleshoot, and resolve technical issues efficiently.\r\nOptimize application performance, reliability, and security.\r\nDevelop and integrate RESTful APIs and third-party services.\r\nParticipate in code reviews and contribute to technical documentation.\r\nStay updated with emerging technologies and recommend improvements.\r\nRequired Qualifications\r\n\r\nBachelor’s degree in Computer Science, Information Technology, or a related field.\r\n0–6 years of professional software development experience.\r\nStrong proficiency in one or more programming languages such as Java, Python, JavaScript/TypeScript, C#, or Go.\r\nExperience with modern frameworks such as React, Angular, Node.js, Spring Boot, .NET, or Django.\r\nGood understanding of databases (MySQL, PostgreSQL, MongoDB).\r\nExperience with Git and modern development workflows.\r\nKnowledge of cloud platforms (AWS, Azure, or Google Cloud) is an advantage.\r\nFamiliarity with Docker, Kubernetes, and CI/CD pipelines is a plus.\r\nStrong analytical, problem-solving, and communication skills.\r\nAbility to work independently in a remote environment.\r\nPreferred Skills\r\n\r\nExperience with Agile/Scrum methodologies.\r\nUnderstanding of microservices architecture.\r\nKnowledge of automated testing and software quality practices.\r\nExposure to DevOps tools and practices.\r\nWhat We Offer\r\n\r\n100% Remote work across India.\r\nCompetitive salary and performance-based growth.\r\nFlexible work environment.\r\nLearning and career development opportunities.\r\nCollaborative and innovative team culture.\r\nLocation: Remote (Work from Anywhere in India)\r\n\r\nEmployment Type: Full-time",
+    "candidateName": "Resume Candidate",
+    "fileName": "New_Resume_Gaurav.pdf",
+    "atsScore": 43,
+    "matchDetails": {
+      "matchedSkills": [
+        "javascript",
+        "python",
+        "java",
+        "c#",
+        "spring boot",
+        "mysql",
+        "docker",
+        "git"
+      ],
+      "missingSkills": [
+        "typescript",
+        "react",
+        "angular",
+        "node.js",
+        "mongodb",
+        "postgresql",
+        "aws",
+        "azure",
+        "google cloud",
+        "kubernetes",
+        "agile",
+        "scrum",
+        "microservices",
+        "communication"
+      ],
+      "matchedKeywords": [
+        "technical",
+        "skilled",
+        "designing",
+        "solutions",
+        "responsibilities"
+      ],
+      "missingKeywords": [
+        "software",
+        "practices.",
+        "remote",
+        "testing",
+        "scalable",
+        "high-quality",
+        "develop",
+        "code",
+        "modern",
+        "understanding",
+        "environment.",
+        "looking",
+        "passionate",
+        "engineer",
+        "join",
+        "growing",
+        "team.",
+        "responsible",
+        "developing",
+        "maintaining",
+        "collaborating",
+        "cross-functional",
+        "teams",
+        "build",
+        "products."
+      ]
+    },
+    "suggestions": [
+      "Incorporate quantifiable metrics (e.g., \"improved loading speed by 35%\", \"managed a team of 4 developers\", \"boosted conversions by 15%\") to prove impact.",
+      "Consider adding context or projects showcasing missing technical skills like: typescript, react, angular, node.js, mongodb.",
+      "Weave in relevant context-specific keywords from the job description: software, practices., remote, testing, scalable."
+    ],
+    "rawText": "\n\n \nSkilled multitasker with superior work ethic and good teamwork, Solution Oriented and organizational skills. \nProactive team player eager to contribute effectively. Reliable and dedicated team player with hardworking \nand resourceful approach. \nPROJECTS \n➢ Heart Disease Prediction System \nDeveloped a web-based Heart Disease Prediction System that uses Machine Learning to predict the \nrisk of heart disease based on patient health parameters. \nTechnologies: ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, Python, Flask API, \nHTML, CSS, Bootstrap, JavaScript. \nResponsibilities: Designing, Development, Database Design, Machine Learning Integration. \nFeatures: \n❖ Developed a secure role-based system with separate modules for Admin, Doctor, and User. \n❖ Integrated a Machine Learning model using a Flask REST API to predict heart disease risk \nfrom patient medical data. \n❖ Implemented user authentication and authorization for secure access to patient records. \n❖ Enabled doctors to review predictions and provide medical recommendations, suggested \nmedicines, and diagnostic tests. \n❖ Stored patient history and prediction reports using SQL Server and Entity Framework Core. \n❖ Generated downloadable PDF reports for prediction history and medical recommendations. \n❖ Designed a responsive user interface using Bootstrap for an improved user experience. \n➢ One Point Car Mall Website \nDeveloped a full-stack web application for buying and selling second-hand cars with secure user \nauthentication, dynamic search, and role-based dashboards. \nTechnologies: Python, Django, MySQL, HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX. \nResponsibilities: Requirement Analysis, UI Design, Backend Development, Database Design. \nFeatures: \n❖ Developed a secure authentication and authorization system for buyers, sellers, and \nadministrators. \n❖ Designed and implemented role-based dashboards to efficiently manage users, car \nlistings, and bookings. \n❖ Built dynamic car search and filtering by brand, fuel type, price, and registration year \nusing AJAX. \n❖ Implemented a test drive booking system with booking status management. \n❖ Integrated automated email notifications for user registrations, bookings, and seller \nrequests. \n❖ Developed a car selling workflow where seller submissions are verified and approved by \nthe administrator before publication. \n❖ Designed a responsive and user-friendly interface using Bootstrap for seamless access \nacross devices. \n❖ Managed application data using MySQL & followed the MVC architecture provided by \nDjango. \nTECHNICAL SKILLS \n➢ Programming Languages: Java, Advanced Java, Python, JavaScript, React.js, Node.js. \n➢ Database: MySQL, Oracle, SQL, SQLite. \n➢ Frameworks: Django, Spring, Spring Boot, ASP.NET Core MVC. \n➢ DevOps & Cloud: Git, GitHub, Docker, Jenkins, Ansible.  \nGaurav C. Chavan \n \nMumbai, Maharashtra \n \n(+91) 74995 84148 \ngauravchavan101004@gmail.com \nlinkedin.com/in/gaurav-chavan-86a574285/ \n\nEDUCATION \n❖ Master of Computer Application (Pursuing)  \nFinolex Academy of Management and Technology, University of Mumbai \nJuly 2025 - May 2027 \n❖ Bachelor of Science in Computer Science \nUniversity of Mumbai \nCGPI: 8.29/10 | July 2022 - May 2025 \n❖ H.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 69.17% | June 2020 - March 2022 \n❖ S.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 85.40% | June 2019 - March 2020  \nCERTIFICATIONS \n❖ Cloud Computing (Elite Certification) - NPTEL, IIT Kharagpur (SWAYAM) | Jan–Apr 2026 \n❖ GenAI Powered Data Analytics Job Simulation – Forage (February 2026) \n❖ Tata Cyber Security Analyst Job Simulation – Forage (Oct 2025) \n❖ Python & Django: The Complete Django Web Development Course – Udemy \n❖ Python Programming -  Udemy \n❖ Android Development - CODTECH IT Solutions Pvt.Ltd. \nACHIEVEMENTS  \n❖ Certification in Workshop on Avishkar Research Convention 2022-2023. \n❖ Recognized for participating & contributing to the Engineering and Technology at the 19th \nAavishkar in 2024-25. \n \n \n ",
+    "createdAt": "2026-07-09T14:09:55.123Z"
+  },
+  {
+    "_id": "1783606328346",
+    "jobTitle": "Senior Frontend Engineer",
+    "jobDescription": "We are seeking a Senior Frontend Engineer to build responsive, user-friendly interfaces.\r\nKey Technical Skills Required:\r\n- JavaScript (ES6+), TypeScript, React, HTML5, CSS3, TailwindCSS, and SASS.\r\n- Experience with module bundlers and tooling: Webpack, Vite, NPM, and Git.\r\n- Experience with state management, REST APIs, GraphQL, and client-side performance optimization.\r\n- Agile Scrum team environment experience.\r\n- Unit testing experience using Jest or testing-library.",
+    "candidateName": "Resume Candidate",
+    "fileName": "New_Resume_Gaurav.pdf",
+    "atsScore": 38,
+    "matchDetails": {
+      "matchedSkills": [
+        "javascript",
+        "rest api"
+      ],
+      "missingSkills": [
+        "typescript",
+        "react",
+        "tailwindcss",
+        "agile",
+        "scrum",
+        "webpack",
+        "vite",
+        "graphql"
+      ],
+      "matchedKeywords": [
+        "responsive",
+        "user-friendly",
+        "technical",
+        "html5",
+        "css3",
+        "state",
+        "experience."
+      ],
+      "missingKeywords": [
+        "seeking",
+        "senior",
+        "frontend",
+        "engineer",
+        "build",
+        "interfaces.",
+        "es6+",
+        "sass.",
+        "module",
+        "bundlers",
+        "tooling",
+        "git.",
+        "apis",
+        "client-side",
+        "performance",
+        "optimization.",
+        "environment",
+        "unit",
+        "testing",
+        "jest",
+        "testing-library."
+      ]
+    },
+    "suggestions": [
+      "Incorporate quantifiable metrics (e.g., \"improved loading speed by 35%\", \"managed a team of 4 developers\", \"boosted conversions by 15%\") to prove impact.",
+      "Consider adding context or projects showcasing missing technical skills like: typescript, react, tailwindcss, agile, scrum.",
+      "Weave in relevant context-specific keywords from the job description: seeking, senior, frontend, engineer, build."
+    ],
+    "rawText": "\n\n \nSkilled multitasker with superior work ethic and good teamwork, Solution Oriented and organizational skills. \nProactive team player eager to contribute effectively. Reliable and dedicated team player with hardworking \nand resourceful approach. \nPROJECTS \n➢ Heart Disease Prediction System \nDeveloped a web-based Heart Disease Prediction System that uses Machine Learning to predict the \nrisk of heart disease based on patient health parameters. \nTechnologies: ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, Python, Flask API, \nHTML, CSS, Bootstrap, JavaScript. \nResponsibilities: Designing, Development, Database Design, Machine Learning Integration. \nFeatures: \n❖ Developed a secure role-based system with separate modules for Admin, Doctor, and User. \n❖ Integrated a Machine Learning model using a Flask REST API to predict heart disease risk \nfrom patient medical data. \n❖ Implemented user authentication and authorization for secure access to patient records. \n❖ Enabled doctors to review predictions and provide medical recommendations, suggested \nmedicines, and diagnostic tests. \n❖ Stored patient history and prediction reports using SQL Server and Entity Framework Core. \n❖ Generated downloadable PDF reports for prediction history and medical recommendations. \n❖ Designed a responsive user interface using Bootstrap for an improved user experience. \n➢ One Point Car Mall Website \nDeveloped a full-stack web application for buying and selling second-hand cars with secure user \nauthentication, dynamic search, and role-based dashboards. \nTechnologies: Python, Django, MySQL, HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX. \nResponsibilities: Requirement Analysis, UI Design, Backend Development, Database Design. \nFeatures: \n❖ Developed a secure authentication and authorization system for buyers, sellers, and \nadministrators. \n❖ Designed and implemented role-based dashboards to efficiently manage users, car \nlistings, and bookings. \n❖ Built dynamic car search and filtering by brand, fuel type, price, and registration year \nusing AJAX. \n❖ Implemented a test drive booking system with booking status management. \n❖ Integrated automated email notifications for user registrations, bookings, and seller \nrequests. \n❖ Developed a car selling workflow where seller submissions are verified and approved by \nthe administrator before publication. \n❖ Designed a responsive and user-friendly interface using Bootstrap for seamless access \nacross devices. \n❖ Managed application data using MySQL & followed the MVC architecture provided by \nDjango. \nTECHNICAL SKILLS \n➢ Programming Languages: Java, Advanced Java, Python, JavaScript, React.js, Node.js. \n➢ Database: MySQL, Oracle, SQL, SQLite. \n➢ Frameworks: Django, Spring, Spring Boot, ASP.NET Core MVC. \n➢ DevOps & Cloud: Git, GitHub, Docker, Jenkins, Ansible.  \nGaurav C. Chavan \n \nMumbai, Maharashtra \n \n(+91) 74995 84148 \ngauravchavan101004@gmail.com \nlinkedin.com/in/gaurav-chavan-86a574285/ \n\nEDUCATION \n❖ Master of Computer Application (Pursuing)  \nFinolex Academy of Management and Technology, University of Mumbai \nJuly 2025 - May 2027 \n❖ Bachelor of Science in Computer Science \nUniversity of Mumbai \nCGPI: 8.29/10 | July 2022 - May 2025 \n❖ H.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 69.17% | June 2020 - March 2022 \n❖ S.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 85.40% | June 2019 - March 2020  \nCERTIFICATIONS \n❖ Cloud Computing (Elite Certification) - NPTEL, IIT Kharagpur (SWAYAM) | Jan–Apr 2026 \n❖ GenAI Powered Data Analytics Job Simulation – Forage (February 2026) \n❖ Tata Cyber Security Analyst Job Simulation – Forage (Oct 2025) \n❖ Python & Django: The Complete Django Web Development Course – Udemy \n❖ Python Programming -  Udemy \n❖ Android Development - CODTECH IT Solutions Pvt.Ltd. \nACHIEVEMENTS  \n❖ Certification in Workshop on Avishkar Research Convention 2022-2023. \n❖ Recognized for participating & contributing to the Engineering and Technology at the 19th \nAavishkar in 2024-25. \n \n \n ",
+    "createdAt": "2026-07-09T14:12:08.346Z"
+  },
+  {
+    "_id": "1783608285005",
+    "name": "Gaurav Test",
+    "email": "gaurav@example.com",
+    "password": "$2b$10$YhDyKFwPfZDWKFlYx3lKK.oNoEDQ2bs3eYJMgTePgEvCUlE2n5YYm",
+    "createdAt": "2026-07-09T14:44:45.005Z"
+  },
+  {
+    "_id": "1783608369024",
+    "userId": "1783608285005",
+    "jobTitle": "React Frontend Dev",
+    "jobDescription": "Required skills: JavaScript, HTML, CSS, React, Redux, SASS, Git, Agile, communication.",
+    "candidateName": "Gaurav Sharma",
+    "email": "gaurav@example.com",
+    "phone": "+1-234-567-8900",
+    "fileName": "mock_resume.txt",
+    "atsScore": 44,
+    "formattingScore": 85,
+    "lengthScore": 40,
+    "matchDetails": {
+      "matchedSkills": [
+        "javascript",
+        "react",
+        "git",
+        "agile"
+      ],
+      "missingSkills": [
+        "html",
+        "css",
+        "sass"
+      ],
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "redux",
+        "communication."
+      ]
+    },
+    "suggestions": [
+      "Create a dedicated \"Education\" section list.",
+      "Your resume is extremely short (under 200 words). Expand descriptions of work and skills.",
+      "Add numeric metrics (e.g., \"improved loading speed by 25%\", \"served 10,000+ users\") to prove your projects' real-world impact."
+    ],
+    "strengths": [
+      "Strong structural layout. Standard section headers are easily parseable.",
+      "Good use of lists/bullet points to present responsibilities."
+    ],
+    "weaknesses": [
+      "Missing critical technical skills: html, css, sass.",
+      "Insufficient resume details. The document word count is below recruiter standard guidelines.",
+      "Lacks a distinct Projects portfolio section to display applied development.",
+      "Lacks quantifiable metrics. Results are described in purely qualitative terms."
+    ],
+    "interviewQuestions": [],
+    "coverLetter": "Dear Hiring Manager,\n\nI am writing to express my strong interest in the React Frontend Dev position. With my background in software development and technical project implementation, I am confident that I can make a significant contribution to your team.\n\nMy resume highlights my experience building responsive applications, designing clean APIs, and collaborating in agile teams. I have developed a strong skill set spanning industry-standard frameworks and software methodologies, and I am excited about the opportunity to apply these skills to your company's technical goals.\n\nThank you for your time and consideration. I look forward to discussing how my experience aligns with your team's needs.\n\nSincerely,\nGaurav Sharma",
+    "linkedinOptimization": {
+      "headline": "",
+      "summary": "",
+      "recommendations": []
+    },
+    "skillsGapAnalysis": {
+      "gaps": [],
+      "courses": []
+    },
+    "rawText": "Gaurav Sharma\nFull Stack Developer\nEmail: gaurav@example.com | Phone: +1-234-567-8900\nLinkedIn: linkedin.com/in/gaurav | GitHub: github.com/gaurav\n\nSUMMARY\nResults-oriented software developer with 4 years of experience building web applications.\n\nTECHNICAL SKILLS\n- Languages: JavaScript, HTML5, CSS3, SQL\n- Frameworks & Libraries: React, Node.js, Express.js, Bootstrap\n- Database: MongoDB, Mongoose\n- Tools & DevOps: Git, GitHub\n\nPROFESSIONAL EXPERIENCE\nSoftware Engineer | Tech Corp (2024 - Present)\n- Developed and optimized React components, improving page load speeds by 25%.\n- Implemented secure RESTful APIs with Node.js and Express, integrating MongoDB for data storage.\n- Collaborated with Agile team using Jira and Scrum methodologies.\n",
+    "createdAt": "2026-07-09T14:46:09.024Z"
+  },
+  {
+    "_id": "1783614511405",
+    "name": "Gaurav Chavan",
+    "email": "gauravchavan101004@gmail.com",
+    "password": "$2b$10$jizCwCMmbI9CRy1c7bk5NuBc8RISIAMOrl6USPDqJtLIgyNMwLXy2",
+    "createdAt": "2026-07-09T16:28:31.405Z"
+  },
+  {
+    "_id": "1783783199058",
+    "userId": "1783614511405",
+    "jobTitle": "Accounts Executive",
+    "jobDescription": "We are looking for a motivated and detail-oriented Accounts Executive to join our finance team. The ideal candidate should have a Bachelor's degree in Accounting and Finance (BAF) or Commerce and possess a strong understanding of accounting principles, financial reporting, taxation, and bookkeeping. The candidate will assist in maintaining financial records, preparing invoices, reconciling bank statements, processing GST and TDS documentation, and supporting month-end and year-end closing activities. Knowledge of Tally ERP, MS Excel, and basic accounting software is preferred. Strong analytical, communication, and organizational skills with the ability to work in a team environment are essential.\r\n\r\nRequired Skills\r\nAccounting\r\nFinancial Accounting\r\nBookkeeping\r\nMS Excel\r\nTally ERP / Tally Prime\r\nGST\r\nTDS\r\nBank Reconciliation\r\nFinancial Reporting\r\nAccounts Payable\r\nAccounts Receivable\r\nJournal Entries\r\nLedger Management\r\nTaxation\r\nCommunication Skills\r\nAnalytical Skills\r\nProblem Solving\r\nTime Management\r\nAttention to Detail\r\nMicrosoft Office\r\nExperience\r\n0–2 Years\r\nFreshers are welcome to apply.",
+    "candidateName": "Vaishali Chandrashekhar Chavan",
+    "email": "VAISHALICHAVAN676@GMAIL.COM",
+    "phone": "9356632445",
+    "fileName": "Vaishali chavan resume (1).pdf",
+    "atsScore": 29,
+    "formattingScore": 100,
+    "lengthScore": 40,
+    "matchDetails": {
+      "matchedSkills": [],
+      "missingSkills": [
+        "communication",
+        "problem solving"
+      ],
+      "matchedKeywords": [
+        "accounting",
+        "financial",
+        "finance",
+        "taxation",
+        "analytical",
+        "motivated",
+        "executive",
+        "team.",
+        "commerce",
+        "understanding"
+      ],
+      "missingKeywords": [
+        "accounts",
+        "tally",
+        "reporting",
+        "bank",
+        "excel",
+        "looking",
+        "detail-oriented",
+        "join",
+        "ideal",
+        "bachelor",
+        "degree",
+        "possess",
+        "principles",
+        "bookkeeping.",
+        "assist",
+        "maintaining",
+        "records",
+        "preparing",
+        "invoices",
+        "reconciling"
+      ]
+    },
+    "suggestions": [
+      "Your resume is extremely short (under 200 words). Expand descriptions of work and skills.",
+      "Add numeric metrics (e.g., \"improved loading speed by 25%\", \"served 10,000+ users\") to prove your projects' real-world impact."
+    ],
+    "strengths": [
+      "Strong structural layout. Standard section headers are easily parseable.",
+      "Good use of lists/bullet points to present responsibilities."
+    ],
+    "weaknesses": [
+      "Missing critical technical skills: communication, problem solving.",
+      "Insufficient resume details. The document word count is below recruiter standard guidelines.",
+      "Lacks quantifiable metrics. Results are described in purely qualitative terms."
+    ],
+    "interviewQuestions": [
+      {
+        "question": "Could you describe a challenging project in your work as a Accounts Executive and how you resolved project bottlenecks?",
+        "answer": "Present your response using the STAR method. Outline the business situation, the target objective for the Accounts Executive role, the actions you executed, and the quantifiable outcomes (e.g. efficiency gained, error reduction).",
+        "type": "technical"
+      },
+      {
+        "question": "How do you stay updated with the latest tools, industry standards, and methodologies within the Accounts Executive domain?",
+        "answer": "Detail professional certifications, training programs, industry publications, and specific operational software tools you use regularly to refine your competency as a Accounts Executive.",
+        "type": "technical"
+      },
+      {
+        "question": "How do you handle conflict or differing professional opinions within a collaborative team environment?",
+        "answer": "Focus on clear communication, active listening, referencing data, documentation, or compliance rules to resolve disputes, and prioritizing project timeline delivery.",
+        "type": "hr"
+      },
+      {
+        "question": "Why do you believe you are the ideal fit for this Accounts Executive position based on the job requirements?",
+        "answer": "Directly link your core experiences and skills to the top requirements listed in the JD. Highlight how your background prepares you to add value immediately.",
+        "type": "hr"
+      }
+    ],
+    "coverLetter": "Dear Hiring Manager,\n\nI am writing to express my strong interest in the Accounts Executive position. With my background in software development and technical project implementation, I am confident that I can make a significant contribution to your team.\n\nMy resume highlights my experience building responsive applications, designing clean APIs, and collaborating in agile teams. I have developed a strong skill set spanning industry-standard frameworks and software methodologies, and I am excited about the opportunity to apply these skills to your company's technical goals.\n\nThank you for your time and consideration. I look forward to discussing how my experience aligns with your team's needs.\n\nSincerely,\nVaishali Chandrashekhar Chavan",
+    "linkedinOptimization": {
+      "headline": "Accounts Executive | Technical Leadership & Process Optimization",
+      "summary": "Results-oriented professional with specialized experience in Accounts Executive workflows. Proven track record of executing key projects, optimizing operational timelines, and collaborating in cross-functional teams to deliver business value. Skilled in analyzing requirements, implementing process improvements, and achieving strategic targets.",
+      "recommendations": [
+        "Update your LinkedIn headline to highlight your primary expertise as a Accounts Executive.",
+        "Craft an engaging 'About' summary highlighting your years of experience and core competencies in the Accounts Executive domain.",
+        "Use active verbs in your experience descriptions (e.g., \"Led\", \"Optimized\", \"Structured\") to detail achievements.",
+        "List specialized certifications and professional projects relevant to Accounts Executive positions."
+      ]
+    },
+    "skillsGapAnalysis": {
+      "gaps": [
+        "Advanced Financial Analysis & Modeling",
+        "Enterprise Resource Planning (ERP - SAP/Oracle)",
+        "Tax Compliance & International Regulations"
+      ],
+      "courses": [
+        "Financial Modeling & Valuation Analyst (FMVA) Certification",
+        "ERP Training: SAP Financial Accounting (FICO) Essentials",
+        "Corporate Tax & Accounting Masterclass"
+      ]
+    },
+    "rawText": "\n\nVaishali Chandrashekhar Chavan  \nDOB – 11 SEP 2006 \nMotivated B.Com (Accounting & Finance) student with strong \nanalytical skills and a solid understanding of financial \nprinciples. Eager to apply academic knowledge in real-world \naccounting, taxation, and financial operations. Known for \naccuracy, discipline, and a willingness to learn.   \n \n      VAISHALICHAVAN676@GMAIL.COM \n      Kankavli, Sindhudurg \n      Maharashtra \n       (+91) 9356632445 \n \n   \nEXPERIENCE: \n \n Professional Experience \nBusiness Development Executive | Apex Actsoft Technologies Pvt Ltd. \nNovember 2025 – March 2026   \nServed as a Business Development Executive within the Sales team.   \nDemonstrated strong character and maintained efficiency in executing all assigned professional \nresponsibilities.   \nGained practical exposure in a professional technology and computer education environment through the \nDnyankunj Computer Institute. \n \nTECHNICAL SKILLS: \nPrimary: MSCIT  \n \nPROJECT:  \nField project regarding: \n“EVALUATING THE IMPACT OF RECENT TAX REFORMS ON SMALL ENTERPRISES” \n \nEDUCTATION: \n❖ B.Com (Accounting & Finance) \n \nSEM  V PURSUING \n1) SEM I CGPA : 6.91  2) SEM II CGPA : 7.19   3) SEM III CGPA : 6.63 \n \n❖  H.S.C  \nS.M. Junior college of Science & Commerce, kankavli, Maharashtra Board \nAggregate: 63.17% | June 2020 - March 2022 \n \n❖ S.S.C \nS.M. High School, Kankavli, Maharashtra Board  \nAggregate: 64.00 | June 2021- March 2022 ",
+    "createdAt": "2026-07-11T15:19:59.059Z"
+  },
+  {
+    "_id": "1783844087623",
+    "userId": "1783614511405",
+    "jobTitle": "Power Apps Developer",
+    "jobDescription": "Job Summary\r\n\r\nWe are seeking a motivated and enthusiastic Power Platform Developer to join our team. This role is ideal for fresh graduates or candidates with up to 1 year of experience who are passionate about Microsoft technologies and business process automation. Internship experience in Microsoft Power Platform is highly preferred.\r\n\r\n\r\nKey Responsibilities\r\n\r\nDevelop and customize applications using Microsoft Power Apps (Canvas and Model-Driven Apps).\r\nCreate and automate business workflows using Power Automate.\r\nDesign interactive dashboards and reports using Power BI.\r\nWork with Dataverse, SharePoint, SQL Server, and other data sources.\r\nAssist in gathering business requirements and translating them into technical solutions.\r\nPerform testing, debugging, and troubleshooting of Power Platform solutions.\r\nCollaborate with cross-functional teams to support business process improvements.\r\nMaintain technical documentation and provide user support when required.\r\nStay updated with the latest Microsoft Power Platform features and best practices.\r\n\r\nRequired Skills\r\n\r\nBasic understanding of Microsoft Power Platform (Power Apps, Power Automate, Power BI).\r\nKnowledge of Microsoft 365, SharePoint, and Dataverse.\r\nFamiliarity with SQL, relational databases, and data modeling concepts.\r\nUnderstanding programming concepts and scripting (JavaScript is a plus).\r\nStrong analytical and problem-solving skills.\r\nGood communication and teamwork abilities.\r\nAbility to learn new technologies quickly.\r\n\r\nPreferred Qualifications\r\n\r\nBachelor's degree in computer science, Information Technology.\r\nInternship or academic project experience with Microsoft Power Platform\r\nRole: Software Development - Other\r\nIndustry Type: IT Services & Consulting\r\nDepartment: Engineering - Software & QA\r\nEmployment Type: Full Time, Permanent\r\nRole Category: Software Development\r\nEducation\r\nUG: Any Graduate\r\nKey Skills\r\nSkills highlighted with ‘‘ are preferred keyskills\r\nPower AutomatePowerappsSQL\r\ndatabasePower BiPower Platform",
+    "candidateName": "O M K A R   N .   C H A V A N",
+    "email": "omkarrrchavan91@gmail.com",
+    "phone": "+91 8692839320",
+    "fileName": "OmkarChavanResume.pdf",
+    "atsScore": 48,
+    "formattingScore": 100,
+    "lengthScore": 100,
+    "matchDetails": {
+      "matchedSkills": [
+        "sql"
+      ],
+      "missingSkills": [
+        "javascript",
+        "communication",
+        "teamwork"
+      ],
+      "matchedKeywords": [
+        "power",
+        "platform",
+        "apps",
+        "technologies",
+        "automate",
+        "sharepoint",
+        "developer",
+        "year"
+      ],
+      "missingKeywords": [
+        "microsoft",
+        "role",
+        "software",
+        "process",
+        "internship",
+        "technical",
+        "solutions.",
+        "support",
+        "understanding",
+        "preferred",
+        "type",
+        "summary",
+        "seeking",
+        "motivated",
+        "enthusiastic",
+        "join",
+        "team.",
+        "ideal",
+        "fresh",
+        "graduates",
+        "candidates",
+        "passionate"
+      ]
+    },
+    "suggestions": [
+      "Add numeric metrics (e.g., \"improved loading speed by 25%\", \"served 10,000+ users\") to prove your projects' real-world impact."
+    ],
+    "strengths": [
+      "Strong structural layout. Standard section headers are easily parseable.",
+      "Optimal document length matching recruiter and ATS expectations.",
+      "Good use of lists/bullet points to present responsibilities."
+    ],
+    "weaknesses": [
+      "Missing critical technical skills: javascript, communication, teamwork.",
+      "Lacks a distinct Projects portfolio section to display applied development.",
+      "Lacks quantifiable metrics. Results are described in purely qualitative terms."
+    ],
+    "interviewQuestions": [
+      {
+        "question": "You have significant experience using SharePoint lists as a data source for Power Apps. In what specific scenarios would you recommend a client transition from SharePoint to Dataverse or a SQL Server database?",
+        "answer": "The candidate should discuss scalability and technical limitations. Key points include: 1) Delegation limits in SharePoint vs. the superior delegation capabilities of Dataverse/SQL. 2) Complexity of relational data (Dataverse handles complex many-to-many and one-to-many relationships more natively). 3) Security requirements (row-level security is more robust in Dataverse). 4) Data volume (the candidate mentioned managing 10,000+ records, so they should mention when SharePoint might start hitting performance thresholds compared to SQL/Dataverse).",
+        "type": "technical"
+      },
+      {
+        "question": "When integrating REST APIs and transforming JSON data within Power Automate, how do you ensure the flow is resilient to errors or unexpected data formats?",
+        "answer": "The candidate should demonstrate an understanding of error handling and data validation. They should highlight: 1) Using 'Configure Run After' settings in Power Automate to handle failures (equivalent to try-catch blocks). 2) Implementing 'Parse JSON' with a strict schema to validate incoming data. 3) Using conditional logic to check for null values or missing keys before processing. 4) Mentioning logging or notification steps (e.g., sending an email or updating a log table) when an API call fails.",
+        "type": "technical"
+      },
+      {
+        "question": "The Power Platform ecosystem evolves rapidly with frequent updates from Microsoft. Can you describe a time when you had to learn a new feature or technology on the fly to complete a project?",
+        "answer": "The candidate should use the STAR method (Situation, Task, Action, Result). They should emphasize their 'quick learner' trait mentioned in the resume. They should detail the specific resource they used (e.g., Microsoft Learn, documentation, community forums), the steps they took to master it, and how applying that new knowledge directly contributed to the success or efficiency of their project.",
+        "type": "behavioral"
+      },
+      {
+        "question": "Describe a situation where you had to translate a complex business requirement into a technical solution. How did you ensure your technical design actually met the user's needs?",
+        "answer": "This question tests requirement gathering and communication skills. The candidate should explain how they interacted with stakeholders to clarify ambiguity. They should mention techniques like prototyping (building a quick Canvas App version), asking clarifying questions about edge cases, and the iterative process of feedback and refinement to ensure the final Power Platform solution aligned with the business goal.",
+        "type": "hr"
+      },
+      {
+        "question": "In your Inventory Management System project, you designed a multi-entity data structure. Walk us through your normalization process and explain how you implemented the low-stock alerting logic.",
+        "answer": "The candidate should showcase their data modeling expertise. They should: 1) Explain the rationale behind splitting data into entities like 'Products', 'Suppliers', and 'Stock Levels' (e.g., reducing redundancy and ensuring data integrity). 2) Mention specific normalization levels (1NF-3NF) they applied. 3) Describe the automation logic: e.g., a Power Automate flow triggered on record update or a scheduled flow that runs a query/filter to identify items below a certain threshold and then triggers a notification.",
+        "type": "technical"
+      }
+    ],
+    "coverLetter": "Dear Hiring Manager,\n\nI am writing to express my enthusiastic interest in the Power Platform Developer position. With over a year of hands-on experience designing enterprise-level applications and automating complex business workflows, I am confident in my ability to deliver high-impact solutions that align with your team’s goals.\n\nIn my current role at Agreem Electro Pvt Ltd, I have specialized in building scalable applications using Power Apps, Power Automate, and SharePoint. I have a proven track record of translating complex business requirements into technical reality—for instance, I developed an Approval Management System that successfully reduced approval cycle times from two days to just four hours. My technical foundation is rooted in strong data modeling and relational database principles; I have successfully architected normalized SharePoint structures to manage over 10,000 records, ensuring data integrity and optimized performance through advanced Power Fx logic.\n\nBeyond application development, I bring a deep understanding of SQL and the ability to integrate REST APIs to create seamless, automated ecosystems. I am highly proficient in managing the entire development lifecycle, from initial requirement gathering and schema design to testing and troubleshooting. I thrive on solving analytical challenges and am eager to leverage my experience with data-driven automation to drive process improvements within your organization.\n\nI am a quick learner, passionate about the Microsoft ecosystem, and eager to contribute to your engineering team's success. Thank you for your time and consideration. I look forward to the possibility of discussing how my technical skills and proactive approach can benefit your company.\n\nSincerely,\n\nOmkar N. Chavan",
+    "linkedinOptimization": {
+      "headline": "SQL Developer | Power Platform Developer | T-SQL, Power Apps, Power Automate | Data Modeling, Database Design & Schema Normalization | Transforming Business Requirements into Scalable Data Solutions",
+      "summary": "I am a developer passionate about the intersection of data architecture and business automation. With over a year of professional experience, I specialize in designing normalized data structures and building enterprise-grade applications using the Microsoft Power Platform. \n\nMy expertise lies in translating complex business requirements into scalable, well-structured data solutions. I have successfully managed applications handling 10,000+ records, leveraging Power Apps, Power Automate, and SharePoint to drive efficiency. Whether it is reducing approval cycles from two days to just four hours or building automated inventory management systems, my focus is always on data integrity, performance, and seamless user experiences.\n\nI possess a strong foundation in relational database design, including schema design, ER diagrams, and normalization (1NF–3NF). Currently, I am deepening my expertise in T-SQL, stored procedures, and query optimization to transition into dedicated SQL Development roles. I am eager to apply my analytical skills to solve complex data challenges and build high-performance database architectures.\n\nKey Skills: SQL Server, T-SQL, Power Apps, Power Automate, SharePoint, Data Modeling, and REST APIs. Let’s connect!",
+      "recommendations": [
+        "Quantify your achievements in the 'Experience' section by using the specific metrics from your resume, such as 'Reduced approval cycle time from 2 days to 4 hours' and 'Improved reporting performance by 35%'.",
+        "Add a 'Featured' section to your profile and upload or link to your GitHub repository (github.com/omkarcode09) to provide visual proof of your SQL and Power Platform projects.",
+        "Ensure your 'Skills' section includes high-volume search terms found in your resume, specifically: T-SQL, Query Optimization, Data Modeling, Power Fx, and Database Design.",
+        "Since you are pivoting toward SQL Development, write a short post or article about a specific T-SQL concept you've mastered (like CTEs or Window Functions) to demonstrate thought leadership to recruiters."
+      ]
+    },
+    "skillsGapAnalysis": {
+      "gaps": [
+        "Power BI (Data visualization and reporting)",
+        "Microsoft Dataverse (Core data platform)",
+        "Model-Driven Apps (Power Apps specialized type)",
+        "JavaScript (Scripting for Power Platform extensibility)"
+      ],
+      "courses": [
+        "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+        "Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)",
+        "Microsoft Learn: Get started with Microsoft Dataverse",
+        "JavaScript Essential Training (LinkedIn Learning or Coursera)"
+      ]
+    },
+    "rawText": "\n\nO M K A R   N .   C H A V A N \nSQL Developer | Power Platform Developer \nMumbai, Maharashtra  |  +91 8692839320  |  omkarrrchavan91@gmail.com  |  github.com/omkarcode09 \nP R O F E S S I O N A L   S U M M A R Y \nPower  Platform  Developer  with  1+  year  of  experience  designing  normalized  data  structures,  automating  workflows,  and \ndelivering  enterprise  applications  supporting  10,000+  records  using  Power  Apps,  Power  Automate,  and  SharePoint.  Strong \nfoundation in relational database design, including normalization, schema design, and referential integrity, developed through \nproduction application work. Currently expanding expertise in T-SQL, stored procedures, and query optimization to pursue a \ndedicated SQL Development role. Adept at translating business requirements into scalable, well-structured data architecture. \nT E C H N I C A L   S K I L L S \nDatabase & SQL: SQL Server, MySQL, T-SQL, Query Optimization, Execution Plans, Joins, Subqueries, CTEs, Window \nFunctions, Aggregate Functions, Stored Procedures, Functions, Triggers, Views, Indexes \nDatabase Design: ER Diagrams, Schema Design, Normalization (1NF–3NF and BCNF), Primary and Foreign Key Relationships, \nData Integrity Constraints, Data Modeling for Enterprise Applications, Performance Optimization \nTools & Platforms: SQL Server Management Studio (SSMS), Power Apps, Power Automate, SharePoint, Git, GitHub, Excel, \nREST APIs, JSON \nP R O F E S S I O N A L   E X P E R I E N C E \nPower Platform Developer — Agreem Electro Pvt Ltd Nov 2025 – Present \nMumbai, Maharashtra \n• Designed normalized SharePoint list structures with lookup relationships for enterprise applications managing 10,000+ \nrecords, applying relational database principles including primary/foreign key equivalents and referential integrity \n• Built complex filtering, sorting, and reporting logic in Power Apps using Power Fx, translating business requirements into \nstructured data queries \n• Integrated REST APIs and transformed JSON data for storage and reporting across Power Automate workflows \n• Applied data modeling and normalization concepts (1NF–3NF) when architecting SharePoint-based data layers for \nproduction applications \n• Resolved data integrity and workflow automation issues within SLA across multiple production applications, including a \nReward & Redemption Score Management System, an Approval Management System, and an Inventory Management \nSystem \nK E Y   P R O J E C T S \nReward & Redemption Score Management System  \n• Designed a normalized data schema (Employees, Rewards, Redemptions, Transactions) for a Power Apps application \nmanaging 10,000+ employee reward records \n• Built automated score validation logic and executive-facing dashboard views using Power Automate and Power Fx \n• Improved reporting performance by 35% through optimized data filtering and structured list relationships \nApproval Management System  \n• Built a structured data model (Requests, Approvers, Audit Trail, Status History) ensuring data consistency and integrity \nacross a multi-stage approval workflow \n• Automated workflow logic and real-time status tracking using Power Automate \n• Reduced approval cycle time from 2 days to 4 hours through optimized data retrieval and automated notifications \nInventory Management System with Low-Stock Alerting  \n• Designed a multi-entity data structure (Products, Suppliers, Stock Levels, Purchase Orders, Audit Logs) for a Power Apps \ninventory application \n• Built automated alerting logic to flag low-stock items in real time, with full audit trail via Power Automate \n• Optimized data filtering and aggregation logic for daily inventory reconciliation reports \nE D U C A T I O N \nBachelor of Science (B.Sc.) in Information Technology — Mumbai University Graduated: 2024 \nCGPA: 7.10 \nA D D I T I O N A L   S K I L L S \n• Strong analytical and problem-solving abilities with focus on data quality and integrity \n• Proven ability to work independently and in collaborative team environments \n• Quick learner with ability to adapt to new technologies and frameworks ",
+    "createdAt": "2026-07-12T08:14:47.623Z"
+  },
+  {
+    "_id": "1783850079802",
+    "userId": "1783614511405",
+    "jobTitle": "Java Full Stack Developer",
+    "jobDescription": "Job Description - Grade Specific\r\n\r\nIs fully competent in its own area and has a deep understanding of related programming concepts software design and software development principles. Works autonomously with minimal supervision. Able to act as a key contributor in a complex environment, lead the activities of a team for software design and software development. Acts proactively to understand internalorexternal client needs and offers advice even when not asked. Able to assess and adapt to project issues, formulate innovative solutions, work under pressure and drive team to succeed against its technical and commercial goals. Aware of profitability needs and may manage costs for specific projectorwork area. Explains difficult concepts to a variety of audiences to ensure meaning is understood. Motivates other team members and creates informal networks with key contacts outside own area.\r\n\r\nCapgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.",
+    "candidateName": "Gaurav C. Chavan",
+    "email": "gauravchavan101004@gmail.com",
+    "phone": "",
+    "fileName": "New_Resume_Gaurav.pdf",
+    "atsScore": 42,
+    "formattingScore": 88,
+    "lengthScore": 90,
+    "matchDetails": {
+      "matchedSkills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "ASP.NET Core MVC",
+        "Django",
+        "Database Design",
+        "Machine Learning",
+        "Software Development"
+      ],
+      "missingSkills": [
+        "Team Leadership",
+        "Software Design Principles",
+        "Project Management",
+        "Client Needs Assessment",
+        "Profitability/Cost Management",
+        "Strategic Planning"
+      ],
+      "matchedKeywords": [
+        "Development",
+        "Design",
+        "Integration",
+        "Database",
+        "API",
+        "Full-stack"
+      ],
+      "missingKeywords": [
+        "Autonomous",
+        "Lead",
+        "Complex environment",
+        "Proactive",
+        "Commercial goals",
+        "Motivate",
+        "Innovative solutions"
+      ]
+    },
+    "suggestions": [
+      "Quantify project outcomes using metrics (e.g., 'improved prediction accuracy by X%' or 'reduced load time by X%') to demonstrate impact.",
+      "Address the seniority gap by highlighting any leadership roles in academic projects, clubs, or internships to satisfy the 'lead' requirement.",
+      "Explicitly mention 'Software Design Principles' and 'System Design' in the technical skills section to align with the JD's core requirements.",
+      "Incorporate 'soft skills' mentioned in the JD, such as 'explaining complex concepts' or 'working under pressure,' into your project descriptions."
+    ],
+    "strengths": [
+      "Strong, diverse technical stack including web frameworks, databases, and DevOps tools.",
+      "Hands-on experience with Machine Learning integration and full-stack development through academic projects.",
+      "Clean and well-organized resume structure that is easy for both ATS and humans to parse."
+    ],
+    "weaknesses": [
+      "Severe seniority mismatch: The JD requires an autonomous professional capable of leading teams, whereas the candidate is a student/entry-level.",
+      "Lack of professional work experience or evidence of managing business-related goals (profitability, commercial targets).",
+      "No evidence of stakeholder management or client-facing interaction which is central to the JD."
+    ],
+    "interviewQuestions": [
+      {
+        "question": "You have working experience with both Django (Python) and ASP.NET Core MVC (C#). From a software design perspective, how do these frameworks differ in their approach to the MVC pattern and how they handle Object-Relational Mapping (ORM)?",
+        "answer": "The candidate should highlight: 1. The architectural philosophy: Django's 'batteries-included' approach (providing most tools out of the box) vs. ASP.NET Core's highly modular and dependency-injection-oriented architecture. 2. ORM Comparison: Contrast Django ORM with Entity Framework Core, specifically mentioning how they handle database migrations and data abstraction. 3. Dependency Management: Mention how ASP.NET Core relies heavily on built-in Dependency Injection, whereas Django typically uses a more centralized settings-based configuration.",
+        "type": "technical"
+      },
+      {
+        "question": "The job description emphasizes working in complex environments and using modern software development principles. Given your experience with Docker, Jenkins, and Ansible, how would you implement a CI/CD pipeline to ensure a reliable deployment for a web-based application?",
+        "answer": "The candidate should outline a workflow including: 1. Version Control: Using Git/GitHub as the source of truth. 2. Continuous Integration: Using Jenkins to automate builds and run unit tests upon code submission. 3. Containerization: Using Docker to package the application and its dependencies to ensure consistency across dev, test, and production environments. 4. Continuous Deployment: Using Ansible for automated configuration management and deployment to the target servers.",
+        "type": "technical"
+      },
+      {
+        "question": "Capgemini seeks individuals who can act proactively and work autonomously. Can you describe a situation where you identified a technical problem or a project requirement that wasn't explicitly assigned to you, and how you took the initiative to resolve it?",
+        "answer": "The candidate should use the STAR method (Situation, Task, Action, Result) to: 1. Demonstrate proactivity by describing a time they looked 'ahead' of the current task. 2. Show autonomy by explaining how they researched or implemented a solution without constant supervision. 3. Highlight the outcome, such as improved system performance, better user experience, or prevented project delays.",
+        "type": "behavioral"
+      },
+      {
+        "question": "A key responsibility in this role is explaining difficult concepts to a variety of audiences. How do you adjust your communication style when explaining a complex technical architecture to a non-technical client or stakeholder?",
+        "answer": "The candidate should emphasize: 1. Simplification: Avoiding deep technical jargon in favor of clear, high-level language. 2. Analogy: Using real-world analogies to explain abstract concepts (e.g., comparing an API to a waiter in a restaurant). 3. Value-Centricity: Focusing on the 'why' (the business value, cost-effectiveness, or user impact) rather than the 'how' (the specific lines of code). 4. Verification: Mentioning the importance of asking follow-up questions to ensure the audience actually understood the concept.",
+        "type": "hr"
+      },
+      {
+        "question": "In your 'Heart Disease Prediction System' project, you integrated a Machine Learning model using a Flask REST API with an ASP.NET Core MVC backend. Can you walk us through the technical process of how a user's input is processed by the ML model and returned to the UI?",
+        "answer": "The candidate should trace the data flow clearly: 1. Data Entry: User submits data via the ASP.NET Core web interface. 2. Backend Processing: The C# controller receives the data and uses an HTTP client to send a POST request containing the data (likely in JSON format) to the Flask API endpoint. 3. ML Inference: The Flask API receives the data, processes it through the Python-based ML model, and generates a prediction. 4. Response Loop: Flask returns the prediction as a JSON response; the ASP.NET Core backend parses this response and passes it to the View to display the result to the user.",
+        "type": "project"
+      }
+    ],
+    "coverLetter": "*   *Role Requirements:* Deep understanding of programming, software design, and development; autonomous work; key contributor in complex environments; leadership potential; proactive client engagement; ability to adapt to project issues/innovate; pressure management; ability to explain difficult concepts; motivating team members.\n    *   *Company Profile (Capgemini):* AI-powered, global, technology transformation partner, values diverse teams and end-to-end services (strategy, tech, design, engineering).\n\n    *   *Key Technical Skills:* Python, Java, JavaScript, React.js, Node.js, Django, Spring Boot, ASP.NET Core MVC, SQL, MySQL, Docker, Jenkins, Ansible.\n    *   *Key Projects:*\n        1.  *Heart Disease Prediction System:* Web-based, Machine Learning (Flask API), ASP.NET Core, SQL Server. Shows integration of complex concepts (ML + Web).\n        2.  *One Point Car Mall:* Full-stack (Django), role-based dashboards, AJAX, MySQL. Shows end-to-end development capability.\n    *   *Education:* Pursuing MCA, BSc in CS.\n    *   *Certifications:* Cloud Computing (NPTEL), GenAI Data Analytics, Cyber Security.\n    *   *Soft Skills (implied/stated):* Solution-oriented, proactive, teamwork, multitasking.\n\n    *   Professional, engaging, highly tailored, confident.\n    *   3-4 concise paragraphs.\n    *   Connect achievements to job requirements.\n\n    *   *Paragraph 1: Introduction & Hook.* State the interest in Capgemini and the specific role (assuming a Software Engineer/Developer role based on the JD). Mention Capgemini's leadership in AI-powered transformation to show research.\n    *   *Paragraph 2: Technical Depth & Problem Solving.* Connect the \"deep understanding of software design\" and \"innovation\" requirements to the candidate's projects. Highlight the Heart Disease Prediction System (complex ML integration) and the Car Mall project (full-stack/end-to-end). Mention the ability to handle complex environments.\n    *   *Paragraph 3: Proactivity, Leadership & Soft Skills.* The JD emphasizes autonomy, proactive advice, and explaining difficult concepts. I'll link this to the candidate's \"solution-oriented\" approach and their ability to manage end-to-end project lifecycles (from requirement analysis to deployment).\n    *   *Paragraph 4: Conclusion.* Reiterate enthusiasm and call to action.\n\n    *   *Self-Correction during drafting:* The candidate is still pursuing their MCA (graduating 2027), so the tone should reflect a high-potential, growing expert rather than a 20-year veteran, but still meet the \"confident\" requirement by focusing on technical mastery and project autonomy.\n\n    *   *Drafting Paragraph 1:* I am writing to express my enthusiastic interest in the Software Engineering position at Capgemini. As an aspiring technology professional with a strong foundation in full-stack development and machine learning integration, I am deeply inspired by Capgemini’s commitment to delivering AI-powered business transformations. I am eager to bring my technical expertise and proactive problem-solving mindset to your innovative global team.\n\n    *   *Drafting Paragraph 2:* My technical background aligns directly with your need for deep software design and development expertise. During the development of my Heart Disease Prediction System, I successfully integrated complex Machine Learning models via Flask APIs into an ASP.NET Core MVC architecture, demonstrating my ability to manage sophisticated, multi-layered technical environments. Furthermore, my experience building the \"One Point Car Mall\" application—from requirement analysis and database design in MySQL to implementing dynamic AJAX-driven interfaces—showcases my capacity to deliver end-to-end, scalable solutions autonomously.\n\n    *   *Drafting Paragraph 3:* Beyond coding, I pride myself on being a proactive contributor who understands the broader business context. I possess the ability to break down complex technical concepts, a skill honed through designing role-based systems and managing diverse user requirements. With a growing proficiency in DevOps tools like Docker and Jenkins, alongside certifications in Cloud Computing and GenAI, I am prepared to adapt to project challenges, work under pressure, and contribute to Capgemini’s mission of driving tangible business value through cutting-edge technology.\n\n    *   *Drafting Paragraph 4:* Thank you for your time and consideration. I am confident that my blend of technical rigor and a solution-oriented approach will make me a valuable asset to your team, and I look forward to the possibility of discussing how I can contribute to Capgemini’s ongoing success.\n\n    *   3-4 paragraphs? Yes (4).\n    *   Confident tone? Yes.\n    *   Connects achievements to JD? Yes (ML integration $\\rightarrow$ complex environment; Full-stack $\\rightarrow$ software design; Proactive/DevOps $\\rightarrow$ innovation/adaptability).\n    *   Concise? Yes.[Your Name]\n[Your Phone Number]\n[Your Email]\n[Your LinkedIn Profile]\n\n[Date]\n\nHiring Manager\nCapgemini\n\n**RE: Software Engineer Application**\n\nI am writing to express my enthusiastic interest in joining Capgemini as a software professional. As a developer driven by the intersection of AI and scalable technology, I have long admired Capgemini’s leadership in delivering AI-powered business transformations. With a strong foundation in full-stack development and a proactive approach to solving complex technical challenges, I am eager to contribute to your team’s mission of making the future of organizations a reality.\n\nMy technical background directly aligns with your requirement for deep expertise in software design and development. In my recent project, a Heart Disease Prediction System, I demonstrated the ability to work autonomously within a complex environment by successfully integrating Machine Learning models via Flask APIs into an ASP.NET Core MVC architecture. Furthermore, my development of the \"One Point Car Mall\" application showcased my end-to-end capabilities—from initial requirement analysis and MySQL database design to implementing dynamic, user-centric interfaces using Django and AJAX. These experiences have equipped me to handle the full software development lifecycle and deliver high-quality, scalable solutions.\n\nI pride myself on being a solution-oriented contributor who looks beyond the code to understand broader project goals. My training in Cloud Computing and GenAI-powered analytics, combined with my familiarity with DevOps tools like Docker and Jenkins, allows me to adapt quickly to evolving technical landscapes and project pressures. I am highly effective at translating complex technical requirements into functional features, ensuring that both technical and commercial objectives are met. I am prepared to act proactively, offer innovative advice, and collaborate across teams to drive success within Capgemini’s high-performance culture.\n\nThank you for your time and consideration. I am confident that my technical rigor and dedication to continuous innovation will make me a valuable asset to your global team, and I look forward to the opportunity to discuss how my skills can support Capgemini’s continued growth.\n\nSincerely,\n\nGaurav C. Chavan",
+    "linkedinOptimization": {
+      "headline": "Aspiring Software Engineer | Full Stack Developer | Python (Django, Flask), Java (Spring Boot), ASP.NET Core | MCA Candidate | Cloud Computing & DevOps Enthusiast | Building Scalable Web Solutions & ML-Integrated Apps",
+      "summary": "I am a passionate Software Engineering student currently pursuing my Master of Computer Applications, driven by a deep curiosity for building scalable, intelligent, and user-centric web applications. My technical foundation spans across multiple ecosystems, including Python (Django, Flask), Java (Spring Boot), and ASP.NET Core MVC, allowing me to approach problem-solving from various architectural perspectives.\n\nDuring my academic journey, I have focused on bridging the gap between complex backend logic and seamless user experiences. Whether it’s developing a Machine Learning-integrated Heart Disease Prediction System or building a full-stack car marketplace using Django, I enjoy the challenge of integrating diverse technologies like SQL Server, MySQL, and REST APIs to create functional, real-world solutions.\n\nBeyond core development, I am actively expanding my expertise in Cloud Computing, DevOps (Docker, Jenkins, Ansible), and Cybersecurity to build more robust and secure software. I thrive in collaborative environments and am always eager to apply my proactive approach and technical skills to impactful projects. Let’s connect to discuss software development, machine learning, or the latest in tech!",
+      "recommendations": [
+        "Add your key projects (Heart Disease Prediction System and One Point Car Mall) to the dedicated 'Projects' section on LinkedIn, specifically listing the technologies used to boost SEO for those keywords.",
+        "Include 'Docker', 'Jenkins', 'Ansible', and 'Spring Boot' in your 'Skills' section, as these are high-demand keywords that recruiters use to filter candidates.",
+        "Utilize the 'Featured' section to upload digital copies or links to your NPTEL Cloud Computing certification and your GitHub repository to provide visual proof of your technical competence.",
+        "Customize your LinkedIn public profile URL to a cleaner version (e.g., linkedin.com/in/gaurav-chavan) to make it look more professional on your resume.",
+        "Since you are pursuing an MCA, ensure your 'Education' section clearly shows your expected graduation date to help recruiters identify you for upcoming internship or entry-level roles."
+      ]
+    },
+    "skillsGapAnalysis": {
+      "gaps": [
+        "Software Architecture and Design Principles",
+        "Team Leadership and People Management",
+        "Project Management and Commercial/Financial Awareness",
+        "Stakeholder Management and Client Advisory"
+      ],
+      "courses": [
+        "Software Architecture and Design Patterns Specialization (Coursera)",
+        "Agile Project Management / Certified Scrum Master (CSM)",
+        "Leadership and Management Skills for Tech Leads",
+        "Effective Communication and Stakeholder Management"
+      ]
+    },
+    "rawText": "\n\n \nSkilled multitasker with superior work ethic and good teamwork, Solution Oriented and organizational skills. \nProactive team player eager to contribute effectively. Reliable and dedicated team player with hardworking \nand resourceful approach. \nPROJECTS \n➢ Heart Disease Prediction System \nDeveloped a web-based Heart Disease Prediction System that uses Machine Learning to predict the \nrisk of heart disease based on patient health parameters. \nTechnologies: ASP.NET Core MVC, C#, SQL Server, Entity Framework Core, Python, Flask API, \nHTML, CSS, Bootstrap, JavaScript. \nResponsibilities: Designing, Development, Database Design, Machine Learning Integration. \nFeatures: \n❖ Developed a secure role-based system with separate modules for Admin, Doctor, and User. \n❖ Integrated a Machine Learning model using a Flask REST API to predict heart disease risk \nfrom patient medical data. \n❖ Implemented user authentication and authorization for secure access to patient records. \n❖ Enabled doctors to review predictions and provide medical recommendations, suggested \nmedicines, and diagnostic tests. \n❖ Stored patient history and prediction reports using SQL Server and Entity Framework Core. \n❖ Generated downloadable PDF reports for prediction history and medical recommendations. \n❖ Designed a responsive user interface using Bootstrap for an improved user experience. \n➢ One Point Car Mall Website \nDeveloped a full-stack web application for buying and selling second-hand cars with secure user \nauthentication, dynamic search, and role-based dashboards. \nTechnologies: Python, Django, MySQL, HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX. \nResponsibilities: Requirement Analysis, UI Design, Backend Development, Database Design. \nFeatures: \n❖ Developed a secure authentication and authorization system for buyers, sellers, and \nadministrators. \n❖ Designed and implemented role-based dashboards to efficiently manage users, car \nlistings, and bookings. \n❖ Built dynamic car search and filtering by brand, fuel type, price, and registration year \nusing AJAX. \n❖ Implemented a test drive booking system with booking status management. \n❖ Integrated automated email notifications for user registrations, bookings, and seller \nrequests. \n❖ Developed a car selling workflow where seller submissions are verified and approved by \nthe administrator before publication. \n❖ Designed a responsive and user-friendly interface using Bootstrap for seamless access \nacross devices. \n❖ Managed application data using MySQL & followed the MVC architecture provided by \nDjango. \nTECHNICAL SKILLS \n➢ Programming Languages: Java, Advanced Java, Python, JavaScript, React.js, Node.js. \n➢ Database: MySQL, Oracle, SQL, SQLite. \n➢ Frameworks: Django, Spring, Spring Boot, ASP.NET Core MVC. \n➢ DevOps & Cloud: Git, GitHub, Docker, Jenkins, Ansible.  \nGaurav C. Chavan \n \nMumbai, Maharashtra \n \n(+91) 74995 84148 \ngauravchavan101004@gmail.com \nlinkedin.com/in/gaurav-chavan-86a574285/ \n\nEDUCATION \n❖ Master of Computer Application (Pursuing)  \nFinolex Academy of Management and Technology, University of Mumbai \nJuly 2025 - May 2027 \n❖ Bachelor of Science in Computer Science \nUniversity of Mumbai \nCGPI: 8.29/10 | July 2022 - May 2025 \n❖ H.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 69.17% | June 2020 - March 2022 \n❖ S.S.C \nMaharashtra State Board of Secondary & Higher Secondary Education  \nAggregate: 85.40% | June 2019 - March 2020  \nCERTIFICATIONS \n❖ Cloud Computing (Elite Certification) - NPTEL, IIT Kharagpur (SWAYAM) | Jan–Apr 2026 \n❖ GenAI Powered Data Analytics Job Simulation – Forage (February 2026) \n❖ Tata Cyber Security Analyst Job Simulation – Forage (Oct 2025) \n❖ Python & Django: The Complete Django Web Development Course – Udemy \n❖ Python Programming -  Udemy \n❖ Android Development - CODTECH IT Solutions Pvt.Ltd. \nACHIEVEMENTS  \n❖ Certification in Workshop on Avishkar Research Convention 2022-2023. \n❖ Recognized for participating & contributing to the Engineering and Technology at the 19th \nAavishkar in 2024-25. \n \n \n ",
+    "createdAt": "2026-07-12T09:54:39.802Z"
+  }
+]

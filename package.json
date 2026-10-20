@@ -1,0 +1,16 @@
+{
+  "name": "ai-resume-analyzer-root",
+  "version": "1.0.0",
+  "description": "Root workspace workspace runner for the AI Resume Analyzer.",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "start:backend": "npm start --prefix backend",
+    "start:dev-backend": "npm run dev --prefix backend",
+    "start:frontend": "npm start --prefix frontend",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "dev": "concurrently \"npm run start:dev-backend\" \"npm run start:frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

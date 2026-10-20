@@ -1,0 +1,19 @@
+Gaurav Sharma
+Full Stack Developer
+Email: gaurav@example.com | Phone: +1-234-567-8900
+LinkedIn: linkedin.com/in/gaurav | GitHub: github.com/gaurav
+
+SUMMARY
+Results-oriented software developer with 4 years of experience building web applications.
+
+TECHNICAL SKILLS
+- Languages: JavaScript, HTML5, CSS3, SQL
+- Frameworks & Libraries: React, Node.js, Express.js, Bootstrap
+- Database: MongoDB, Mongoose
+- Tools & DevOps: Git, GitHub
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Tech Corp (2024 - Present)
+- Developed and optimized React components, improving page load speeds by 25%.
+- Implemented secure RESTful APIs with Node.js and Express, integrating MongoDB for data storage.
+- Collaborated with Agile team using Jira and Scrum methodologies.

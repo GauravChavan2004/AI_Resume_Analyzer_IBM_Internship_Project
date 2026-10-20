@@ -1,0 +1,483 @@
+/* Custom CSS for AI Resume Analyzer - Premium Dark Mode Theme */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  /* Default light theme colors */
+  --bg-color: #f8fafc;
+  --panel-bg: rgba(255, 255, 255, 0.85);
+  --border-color: rgba(15, 23, 42, 0.08);
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --accent-blue: #0284c7;
+  --accent-purple: #4f46e5;
+  --accent-emerald: #059669;
+  --accent-rose: #dc2626;
+  --card-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.08);
+  --input-bg: #ffffff;
+  --input-text: #0f172a;
+  --title-gradient-start: #0f172a;
+  --title-gradient-end: #475569;
+  --body-gradient: radial-gradient(at 10% 10%, rgba(79, 70, 229, 0.04) 0px, transparent 50%),
+                   radial-gradient(at 90% 90%, rgba(2, 132, 199, 0.04) 0px, transparent 50%);
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+}
+
+[data-theme="dark"] {
+  /* Dark theme overrides */
+  --bg-color: #0f172a;
+  --panel-bg: rgba(30, 41, 59, 0.7);
+  --border-color: rgba(255, 255, 255, 0.08);
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --accent-blue: #38bdf8;
+  --accent-purple: #818cf8;
+  --accent-emerald: #34d399;
+  --accent-rose: #fb7185;
+  --card-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --input-bg: rgba(15, 23, 42, 0.5);
+  --input-text: #f8fafc;
+  --title-gradient-start: #ffffff;
+  --title-gradient-end: #94a3b8;
+  --body-gradient: radial-gradient(at 10% 10%, rgba(129, 140, 248, 0.08) 0px, transparent 50%),
+                   radial-gradient(at 90% 90%, rgba(56, 189, 248, 0.08) 0px, transparent 50%);
+}
+
+body {
+  background-color: var(--bg-color);
+  background-image: var(--body-gradient);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  letter-spacing: -0.01em;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--text-primary);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Glassmorphic Navbar */
+.navbar-custom {
+  background: rgba(15, 23, 42, 0.8) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border-color);
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  font-size: 1.5rem;
+  background: linear-gradient(135deg, var(--accent-blue) 0%, var(--accent-purple) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.nav-link {
+  color: #94a3b8 !important; /* Keep light links on dark navbar */
+  font-weight: 500;
+  padding: 0.5rem 1.2rem !important;
+  border-radius: 8px;
+  transition: var(--transition-smooth);
+}
+
+.nav-link:hover, .nav-link.active {
+  color: #f8fafc !important; /* Active text color */
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Force navbar inner elements to remain light for high contrast header */
+.navbar-custom .btn-outline-custom {
+  color: #f8fafc !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+.navbar-custom .btn-outline-custom:hover {
+  background: rgba(255, 255, 255, 0.05) !important;
+  border-color: rgba(255, 255, 255, 0.25) !important;
+}
+.navbar-custom .text-secondary {
+  color: #94a3b8 !important;
+}
+
+/* Glassmorphic Cards */
+.card-glass {
+  background: var(--panel-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  box-shadow: var(--glass-shadow);
+  transition: var(--transition-smooth);
+}
+
+.card-glass:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+.card-title-gradient {
+  background: linear-gradient(135deg, var(--title-gradient-start) 0%, var(--title-gradient-end) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Dynamic Drag and Drop Upload Area */
+.upload-zone {
+  border: 2px dashed rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.02);
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  position: relative;
+  overflow: hidden;
+}
+
+.upload-zone:hover, .upload-zone.dragover {
+  border-color: var(--accent-blue);
+  background: rgba(56, 189, 248, 0.05);
+  box-shadow: 0 0 20px rgba(56, 189, 248, 0.1);
+}
+
+.upload-zone .upload-icon {
+  font-size: 3rem;
+  color: var(--accent-blue);
+  margin-bottom: 1rem;
+  transition: var(--transition-smooth);
+}
+
+.upload-zone:hover .upload-icon {
+  transform: scale(1.1);
+  color: var(--accent-purple);
+}
+
+#file-input {
+  display: none;
+}
+
+.file-selected-badge {
+  background: rgba(56, 189, 248, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  color: var(--accent-blue);
+  border-radius: 50px;
+  padding: 0.5rem 1.2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  animation: fadeIn 0.3s ease;
+}
+
+/* Custom Buttons */
+.btn-premium {
+  background: linear-gradient(135deg, var(--accent-blue) 0%, var(--accent-purple) 100%);
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.75rem;
+  border-radius: 10px;
+  transition: var(--transition-smooth);
+  box-shadow: 0 4px 15px rgba(129, 140, 248, 0.3);
+}
+
+.btn-premium:hover {
+  opacity: 0.95;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(129, 140, 248, 0.45);
+}
+
+.btn-outline-custom {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  font-weight: 600;
+  padding: 0.75rem 1.75rem;
+  border-radius: 10px;
+  transition: var(--transition-smooth);
+}
+
+.btn-outline-custom:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Custom Input and Textareas */
+.form-control-dark {
+  background-color: var(--input-bg) !important;
+  border: 1px solid var(--border-color) !important;
+  color: var(--input-text) !important;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  transition: var(--transition-smooth);
+}
+
+.form-control-dark:focus {
+  background-color: var(--input-bg) !important;
+  border-color: var(--accent-blue) !important;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15) !important;
+  color: var(--input-text) !important;
+  outline: none;
+}
+
+.form-control-dark::placeholder {
+  color: rgba(148, 163, 184, 0.5);
+}
+
+/* Tags and Badges */
+.badge-skill {
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  margin: 0.25rem;
+  display: inline-block;
+  transition: var(--transition-smooth);
+}
+
+.badge-skill-match {
+  background-color: rgba(52, 211, 153, 0.1);
+  border: 1px solid rgba(52, 211, 153, 0.3);
+  color: var(--accent-emerald);
+}
+
+.badge-skill-missing {
+  background-color: rgba(251, 113, 133, 0.1);
+  border: 1px solid rgba(251, 113, 133, 0.3);
+  color: var(--accent-rose);
+}
+
+.badge-status {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.3rem 0.6rem;
+  border-radius: 50px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Radial Gauge Chart Container */
+.gauge-container {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+}
+
+.gauge-score {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.gauge-score .score-num {
+  font-size: 3rem;
+  font-weight: 800;
+  font-family: var(--font-heading);
+  line-height: 1;
+  background: linear-gradient(135deg, var(--title-gradient-start) 0%, var(--accent-blue) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gauge-score .score-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 2px;
+}
+
+/* Lists and Suggestions */
+.suggestion-item {
+  position: relative;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.suggestion-item::before {
+  content: "⚡";
+  position: absolute;
+  left: 0;
+  top: 1px;
+  color: var(--accent-purple);
+  font-size: 1.1rem;
+}
+
+/* Loading Backdrop overlay */
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(8px);
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.loading-overlay.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.spinner-custom {
+  width: 70px;
+  height: 70px;
+  border: 4px solid rgba(129, 140, 248, 0.1);
+  border-left-color: var(--accent-blue);
+  border-right-color: var(--accent-purple);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 30px rgba(56, 189, 248, 0.2);
+}
+
+/* History Page Layout */
+.history-table {
+  color: var(--text-primary) !important;
+}
+
+.history-table th {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1) !important;
+  color: var(--text-secondary);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  padding: 1rem !important;
+}
+
+.history-table td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+  padding: 1rem !important;
+  vertical-align: middle;
+  background: transparent !important;
+  color: var(--text-primary) !important;
+}
+
+.history-row {
+  transition: var(--transition-smooth);
+}
+
+.history-row:hover {
+  background: rgba(255, 255, 255, 0.02) !important;
+}
+
+/* Templates dropdown design */
+.dropdown-item-dark {
+  color: var(--text-primary) !important;
+  transition: var(--transition-smooth);
+}
+
+.dropdown-item-dark:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Footer styling */
+footer {
+  border-top: 1px solid var(--border-color);
+  margin-top: 5rem;
+  padding: 2.5rem 0;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* Keyframe Animations */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .gauge-container {
+    width: 140px;
+    height: 140px;
+  }
+  .gauge-score .score-num {
+    font-size: 2.2rem;
+  }
+}
+
+/* Force Table Transparency inside Glassmorphic Cards & Modals */
+.card-glass table,
+.modal-content table {
+  --bs-table-bg: transparent !important;
+  background-color: transparent !important;
+  color: var(--text-secondary) !important;
+}
+
+.card-glass table td,
+.modal-content table td {
+  background-color: transparent !important;
+  color: var(--text-secondary) !important;
+}
+
+/* Fix text colors inside the transparency-forced tables */
+.card-glass table td.text-white,
+.modal-content table td.text-white,
+.card-glass table td strong,
+.modal-content table td strong {
+  color: var(--text-primary) !important;
+}
+
+/* Force text-white class to adapt to active themes in Light mode */
+[data-theme="light"] .text-white {
+  color: var(--text-primary) !important;
+}
+
+/* Ensure username text inside navbar has high contrast and visibility */
+#navbar-auth-panel span {
+  color: #94a3b8 !important;
+}
+
+/* Style theme toggle button as a neat, modern square icon button */
+#theme-toggle-btn {
+  width: 38px;
+  height: 38px;
+  padding: 0 !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}

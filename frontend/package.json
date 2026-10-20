@@ -1,0 +1,11 @@
+{
+  "name": "ai-resume-analyzer-frontend",
+  "version": "1.0.0",
+  "description": "Static frontend for AI Resume Analyzer.",
+  "scripts": {
+    "start": "serve -s public -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
